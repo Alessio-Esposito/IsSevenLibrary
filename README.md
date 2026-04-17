@@ -6,7 +6,7 @@
 Libreria che importa una serie di 7 funzioni che permettono di interagire con il numero "7".<br/>
 
 # Utilizzo
-Come importare la libreria
+Come importare la libreria scaricata
 ```python
 import sevebLibrary as seven
 ```
