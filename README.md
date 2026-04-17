@@ -56,7 +56,9 @@ print(seven.stringHaseSeven("five"))                       # False
 print(seven.stringHaseSeven("SEVENeleven"))                # False
 ```
 # Proprietà Intelletuale
-Tutti i diritti di proprietà intellettuale relativi a "Is7OfficialLibrary" appartengono originariamente ad Azienda Sĕptem. Il software è rilasciato sotto i termini della licenza inclusa in questo repository, che ne autorizza il fork, la modifica e la ridistribuzione nel rispetto delle condizioni specificate. La titolarità del codice originale e il diritto di paternità dell'opera restano in capo all'autore; ogni utilizzo derivato deve mantenere intatti i riferimenti al copyright e alle licenze originali come previsto dalle normative vigenti.
+Tutti i diritti di proprietà intellettuale relativi a "Is7OfficialLibrary" appartengono originariamente ad Azienda7. Il software è rilasciato sotto i termini della licenza inclusa in questo repository, che ne autorizza il fork, la modifica e la ridistribuzione nel rispetto delle condizioni specificate. La titolarità del codice originale e il diritto di paternità dell'opera restano in capo all'autore; ogni utilizzo derivato deve mantenere intatti i riferimenti al copyright e alle licenze originali come previsto dalle normative vigenti.
+
+L'Azienda non garantisce assistenza riguardo alla libreria.
 <br/>
 
 # Licenza LGPL
